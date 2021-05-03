@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan 2 - Bloodshare</string>
+    <string name="todo">TODO</string>
+    <string name="hint_username">username</string>
+    <string name="hint_pass">password</string>
+    <string name="desr_logo">logo bloodshare</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="btn_login_fb">CONNECT WITH FACEBOOK</string>
+    <string name="reg">"don't have account?"</string>
+</resources>
